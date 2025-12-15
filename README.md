@@ -10,7 +10,6 @@ A production-minded **Next.js + React + TypeScript** template.
 - Dockerfile for clean container deployments (DigitalOcean, Fly, Render, etc.)
 - Husky + lint-staged + commitlint
 
-![CI](https://img.shields.io/github/actions/workflow/status/<YOUR_GH_ORG>/<YOUR_REPO>/ci.yml?label=CI)
 [![Coverage](https://codecov.io/gh/<YOUR_GH_ORG>/<YOUR_REPO>/branch/main/graph/badge.svg)](https://codecov.io/gh/<YOUR_GH_ORG>/<YOUR_REPO>)
 ![license](https://img.shields.io/badge/License-MIT-green)
 ![typescript](https://img.shields.io/badge/TypeScript-5.x-blue)
