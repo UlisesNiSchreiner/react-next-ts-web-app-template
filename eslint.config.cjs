@@ -72,7 +72,7 @@ module.exports = [
 
   // Scripts
   {
-    files: ["scripts/**/*.{js,mjs,cjs}"],
+    files: ["scripts*/**/*.{js,mjs,cjs}"],
     languageOptions: {
       globals: {
         console: "readonly",
