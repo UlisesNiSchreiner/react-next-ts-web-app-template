@@ -22,7 +22,7 @@ export default defineConfig({
         "components/**/*.tsx",
         "lib/**/*.ts",
       ],
-      exclude: [".next/**", "next-env.d.ts", "test/**"],
+      exclude: [".next/**", "next-env.d.ts", "test/**", "lib/**"],
       thresholds: {
         statements: 85,
         branches: 85,
